@@ -6,6 +6,10 @@ public class Horse {
     private int position;
     private int stall;
 
+	public String getName() {
+		return name;
+	}
+
     
 
 }
