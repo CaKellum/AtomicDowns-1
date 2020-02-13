@@ -9,4 +9,9 @@ public class Decider{
     Decider(ArrayList<Horse> horses){
         this.horses = horses;
     }
+
+    public String getCurrentLead(){
+        
+        return null;
+    }
 }
