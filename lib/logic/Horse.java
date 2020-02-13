@@ -1,3 +1,5 @@
-public class Horse{
+package lib.logic;
+
+public class Horse {
     
 }
